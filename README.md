@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript, and React.
   - I have a significant background in MATLAB and VBA.
   - I also have experience in C++ and Java. I took courses of Algorithms and Data Structures (C++) and Object Oriented Programming with Java.
-- 💞️ I’m looking to collaborate on React based projects.
+  - I’m looking to collaborate on React based projects.
 - 📫 You can reach me via myildizwork@gmail.com
 
 https://app.netlify.com/teams/myildiz97/overview
