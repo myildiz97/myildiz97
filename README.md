@@ -9,6 +9,8 @@
   - I also have experience in C++ and Java. I took courses of Algorithms and Data Structures (C++) and Object Oriented Programming with Java.
 - 💞️ I’m looking to collaborate on React based projects.
 - 📫 You can reach me via myildizwork@gmail.com
+
+https://app.netlify.com/teams/myildiz97/overview
 <!---
 myildiz97/myildiz97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
