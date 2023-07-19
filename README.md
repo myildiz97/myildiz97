@@ -1,13 +1,11 @@
 # About Me
 - 👋 Hi, I’m Mehmet.
-  - I'm a Jr. software developer working at i4Works in ODTÜ Teknokent.
-  - I'm also a MSc. civil engineering student in division of geotechincal engineering at ODTÜ.
-  - Moreover, I am a volunteer teaching assistant for the undergraduate course CE461-Computer Applications in Foundation Engineering (MATLAB and VBA).
+  - I'm a Jr. software developer.
+  - I'm also a MSc. civil engineering student at ODTÜ.
 - 👀 I’m interested in web and game development.
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript, React, and Next.js.
+- 🌱 I’m currently learning Express.js, and Next.js.
   - I have a significant background in MATLAB and VBA.
   - I also have experience in C++ and Java. I took courses of Algorithms and Data Structures (C++) and Object Oriented Programming with Java.
-  - I’m looking to collaborate on React based projects.
 - 📫 You can reach me via myildizwork@gmail.com
 
 <!---
