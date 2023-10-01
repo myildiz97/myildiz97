@@ -1,12 +1,15 @@
 # About Me
-- 👋 Hi, I’m Mehmet.
-  - I'm a Full Stack Developer.
-  - I'm also a MSc. Information System student at ODTÜ.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently working on projects based on React, Next.js, Python, Django, and MongoDB.
-  - I have a significant background in MATLAB and VBA.
-  - I also have experience in C++ and Java. I took courses of Algorithms and Data Structures (C++) and Object Oriented Programming with Java.
-- 📫 You can reach me via myildizwork@gmail.com
+
+- 👋 Hi, I'm Mehmet, a passionate Full Stack Developer.
+  - 🎓 MSc. Information System student at ODTÜ.
+  
+- 👀 I’m deeply interested in web development.
+- 🌱 Currently working on projects involving React, Next.js, Python, Django/FastAPI, and MongoDB.
+  - 🔧 Proficient in MATLAB, VBA, Javascript, and Python.
+  - 📚 Completed courses in Algorithms and Data Structures (C++), and Object-Oriented Programming (Java).
+
+- 📫 Let's connect! Drop me an email at myildizwork@gmail.com.
+
 
 <!---
 myildiz97/myildiz97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
