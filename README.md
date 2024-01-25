@@ -4,10 +4,10 @@
   - 🎓 MSc. Information System student at ODTÜ.
   
 - 👀 I’m deeply interested in web development.
-- 🌱 Currently working on projects involving React, Next.js, Python, Django/FastAPI, and MongoDB.
-  - 🔧 Proficient in MATLAB, VBA, Javascript, and Python.
+- 🌱 Currently working on projects involving React, Next.js, Python, Django/FastAPI, MongoDB, and Babylon.js.
+  - 🔧 Proficient in Typescript, and Babylon.js.
   - 📚 Completed courses in Algorithms and Data Structures (C++), and Object-Oriented Programming (Java).
-
+- I am currently working with the best pair [akifmertturk](https://github.com/akifmertturk).
 - 📫 Let's connect! Drop me an email at myildizwork@gmail.com.
 
 
